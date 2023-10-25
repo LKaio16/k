@@ -1,0 +1,16 @@
+{
+   "user1" : {
+      "name" : "KAIO",
+      "id": 1
+   },
+   
+   "user2" : {
+      "name" : "MANEL",
+      "id": 2
+   },
+   
+   "user3" : {
+      "name" : "MARIO",
+      "id": 3
+   }
+}
