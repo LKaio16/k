@@ -23,7 +23,11 @@ app.listen(process.env.PORT ?? 3000,function(erro){  // cria a aplicação na po
     if (erro){
         console.log("Erro ao Iniciar.");
     }else{
-        console.log("Servidor Iniciado.");
+        console.log("Servidor Iniciado!");
     }
+
+    //a
 })
+
+//a
 
